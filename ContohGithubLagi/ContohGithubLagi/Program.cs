@@ -6,8 +6,7 @@ namespace ContohGithubLagi
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("hai");
-            Console.WriteLine("hai");
+            Console.Write("kasjdlfalksfklsajf");
         }
     }
 }
